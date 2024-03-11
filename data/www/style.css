@@ -5,8 +5,14 @@
   width: "100%";
   height: 200px;
 }
- 
+a:hover {
+	color: brown;
+}
+a {
+	color: #808000;
+	text-decoration: none;
+}
  style1 {
 	color: brown;
-	text-align: center;
+	font-size: 30px;
  }
